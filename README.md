@@ -2,7 +2,7 @@
 
 Hi, I'm Savely
 
-My first repo
+It is my first repo
 
 My first commit
 
