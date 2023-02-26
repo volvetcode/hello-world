@@ -1,4 +1,4 @@
-# hello-world-cpp
+# hello-world
 
 Hi, I'm Savely
 
